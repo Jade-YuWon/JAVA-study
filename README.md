@@ -14,10 +14,11 @@
   - Scanner Class
   
 #### 22.01.17 (Mon)
-- Ch. 2-11 ~ 2-17, 3-1~2, 4-1~11, 4-13~24
+- Ch. 2-11 ~ 2-17, 3-1\~2, 4-1\~11, 4-13\~24, 5-1
   - Types and Range of Variables (Basic Type)
   - printf and format specifier(형식 지정자)
   - Type casting
   - Overflow
   - Operators and if, switch, Loops
+  - Declaration of an Array
  
