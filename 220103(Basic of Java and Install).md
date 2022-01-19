@@ -41,7 +41,7 @@ Byte code is independent to Hardware-based platform.<br>
 
 ## Hello World : Next Time...
 
-# Difficulties
-- Today was generally easy to learn basic Java knowledgements and install.
-- The "Independent to OS/HW" concept was a little bit hard to understand.
+# Difficulties of the day
+- It was mostly easy to install Java and to learn basic knowledgements about it.
+- The "Independent to OS/HW" concept was a little bit difficult to understand to me.
   - Byte Code(.java) does, and JVM does NOT. 
