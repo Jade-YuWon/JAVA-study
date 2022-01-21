@@ -29,6 +29,7 @@
 - \[Ch.4 Complete]
   - if, switch, Loops
   - (4-12: Random number generator)
+    - Math.random(); // generate random numbers between 0 to 1
 - Ch.5
   - Declaration of an Array
  
@@ -53,9 +54,36 @@
 
 
 #### 22.01.20 (Thu)
-- Ch.
+- Ch. 5-1 ~ 5-5
   - Array
+  - Declaration of reference variables and Creating arrays
+    - DATA_TYPE\[] ARR_NAME;  // Declare a reference variable of array
+    - ARR_NAME = new DATA_TYPE\[ARR_SIZE];  // Create an array
+    - DATA_TYPE\[] ARR_NAME = new DATA_TYPE\[ARR_SIZE]; // Combining of declaration and creating in once
+    - DATA_TYPE ARR_NAME\[] = new DATA_TYPE\[ARR_SIZE]; // C style (Legal but not recommended)
+  - Initialization of arrays
+    - Java Array is basically initialized automatically to 0, NULL, false (기본형)...
+    - ARR_NAME\[] = { LIST_OF_VALUES };   // Initialize entirely (INDEX is omitable)
+    - ARR_NAME\[INDEX] = NEW_VALUE;   // Initialize separately
+    - 
+``` JAVA
+public class array {
+    public static void main(String[] args) {
+        int[] arr1 = new int[10];
+    }
+}
+
+```
 
 #### 22.01.21 (Fri)
-- Ch. 
-  - 
+- Ch. 6-8 ~ 6-35
+  - Print out Arrays 
+  - Object array
+  - Class variables
+    - iv: Instance variable / in class area / can use after creating object(instance)
+    - cv: Class variable / static(values can be change) / in class area / can use right after declaration of class
+    - lv: Local variable / in methods area / exist only in methods
+  - Call Stack wtih imperative vs. reference variable
+  - Instance methods vs. Static methods
+  - Overloading of methods
+  - Constructor of methods
