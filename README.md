@@ -44,9 +44,18 @@
     - Abstraction(추상화)
 
 #### 22.01.19 (Wed)
-- Ch. 6-2~7
+- Ch. 6-2 ~ 6-7
   - Relationships between Class and Instance
   - Object and Instance, a kind of object which is made by class
   - Make Class and Instance
   - Use Instance; variables(fields) and methods
   - Reference variable of instance
+
+
+#### 22.01.20 (Thu)
+- Ch.
+  - Array
+
+#### 22.01.21 (Fri)
+- Ch. 
+  - 
