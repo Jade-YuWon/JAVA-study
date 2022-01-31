@@ -76,14 +76,60 @@ public class array {
 ```
 
 #### 22.01.21 (Fri)
-- Ch. 6-8 ~ 6-35
+- Ch. 6-8 ~ 6-35 (Briefly)
   - Print out Arrays 
   - Object array
-  - Class variables
+  - Variables declared inside of a class
     - iv: Instance variable / in class area / can use after creating object(instance)
     - cv: Class variable / static(values can be change) / in class area / can use right after declaration of class
     - lv: Local variable / in methods area / exist only in methods
-  - Call Stack wtih imperative vs. reference variable
+  - Call Stack wtih primitive vs. reference variable
   - Instance methods vs. Static methods
   - Overloading of methods
   - Constructor of methods
+
+
+#### 22.01.22 (Sat)
+- Ch. 6-23 ~ 6-25 (review)
+  - Parameters
+    - primitive parameters
+    - reference parameters
+
+#### 22.01.23 (Sun)
+- Ch. 6-26 ~ 29 (review), 6-36 ~ 37
+  - Instance methods vs. Static methods
+    - instance methods: can use iv(instance variables), needed to initialize the iv and to make an instance before calling instance methods
+    - class methods(static ―): cannot use iv, available without declarization of instance
+  - "this"
+    - reference variable "this"
+    - constructor "this()"
+
+#### 22.01.24 (Mon)
+- Ch. 5-8 ~ 5-11
+  - Application of arrays
+    - Length of an array: array.length
+    - Exact average of array values: sumOfArray / (float)array.length
+
+#### 22.01.25 (Tue)
+- Ch.
+  - 
+
+#### 22.01.26 (Wed)
+- Ch. 
+  - 
+
+#### 22.01.28 (Fri)
+- Ch.
+  - 
+
+#### 22.01.29 (Sat)
+- Ch.
+  - 
+
+#### 22.01.30 (Sun)
+- Ch.
+  - 
+
+#### 22.01.31 (Mon)
+- Ch.
+  - 
