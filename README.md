@@ -96,7 +96,7 @@ public class array {
     - reference parameters
 
 #### 22.01.23 (Sun)
-- Ch. 6-26 ~ 29 (review), 6-36 ~ 37
+- Ch. 6-26 \~ 29 (review), 6-36 \~ 37
   - Instance methods vs. Static methods
     - instance methods: can use iv(instance variables), needed to initialize the iv and to make an instance before calling instance methods
     - class methods(static ―): cannot use iv, available without declarization of instance
@@ -112,24 +112,34 @@ public class array {
 
 #### 22.01.25 (Tue)
 - Ch.
-  - 
+  - Inheritance
 
 #### 22.01.26 (Wed)
 - Ch. 
-  - 
+  - Single Inheritance
 
 #### 22.01.28 (Fri)
-- Ch.
-  - 
+- Ch. 
+  - Inheritance
+  - class Object
+  - Overriding of methods
 
 #### 22.01.29 (Sat)
-- Ch.
+- Ch. 1-
   - 
 
 #### 22.01.30 (Sun)
-- Ch.
-  - 
+- Ch. 6-38 \~ 41
+  - Initialization of variables and members
 
 #### 22.01.31 (Mon)
-- Ch.
-  - 
+- Ch. 6-38 \~ 41(supplementary), 7-10 \~ - 11
+- \[Ch.6 Complete]
+  - Initialization of variables and members
+  - super vs. super()
+
+#### 22.02.01 (Tue)
+- Ch. 7 - 12 ~ 21
+  - Package, classpath
+  - import and static import
+  - Access Modifiers
