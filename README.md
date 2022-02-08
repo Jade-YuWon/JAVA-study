@@ -143,3 +143,20 @@ public class array {
   - Package, classpath
   - import and static import
   - Access Modifiers
+
+#### 22.02.03 (Thu)
+- Ch. 1-
+  - 
+
+
+#### 22.02.05 (Sat)
+- Ch. 1-
+  - 
+
+#### 22.02.06 (Sun)
+- Ch. 1-
+  - 
+
+#### 22.02.07 (Mon)
+- Ch. 1-
+  - 
