@@ -39,7 +39,7 @@
     - Stengths: Easy to maintenace(유지보수 용이), High reusability(높은 재사용성), De-duplicatable(중복제거)
   - Class and Object of Java
   - 4 Properties of OOP
-    - **Polymorphysm(다형성)**
+    - **Polymorphism(다형성)**
     - Inheritance(상속)
     - Encapsulation(캡슐화)
     - Abstraction(추상화)
@@ -111,22 +111,25 @@ public class array {
     - Exact average of array values: sumOfArray / (float)array.length
 
 #### 22.01.25 (Tue)
-- Ch.
+- Ch. 7-1 \~ 4
   - Inheritance
 
 #### 22.01.26 (Wed)
-- Ch. 
-  - Single Inheritance
+- Ch. 7-3 \~ 4 (review)
+  - Inheritance
+
 
 #### 22.01.28 (Fri)
-- Ch. 
-  - Inheritance
+- Ch. 7-5 \~ 9
+  - Single Inheritance
   - class Object
   - Overriding of methods
+    - Overloading vs. Overriding
 
 #### 22.01.29 (Sat)
-- Ch. 1-
-  - 
+- Ch. 1-1 \~ 7
+  - Concept and History of Java
+  - Java API Documents
 
 #### 22.01.30 (Sun)
 - Ch. 6-38 \~ 41
@@ -145,18 +148,21 @@ public class array {
   - Access Modifiers
 
 #### 22.02.03 (Thu)
-- Ch. 1-
-  - 
-
-
+- Ch. 7-
+  - Polymorphism
+  - Type Casting of referencial variable
+  - instanceof Operator
+  
 #### 22.02.05 (Sat)
-- Ch. 1-
-  - 
+- Ch. 7-
+  - Polymorphism of reference variable
+  - Abstract Class
 
 #### 22.02.06 (Sun)
-- Ch. 1-
-  - 
+- Ch. 7-
+  - Excercise of abstract classes
+  - Interface
 
 #### 22.02.07 (Mon)
-- Ch. 1-
-  - 
+- Ch. 7-
+  - Excercise and Strengths of Interface
