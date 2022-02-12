@@ -166,3 +166,11 @@ public class array {
 #### 22.02.07 (Mon)
 - Ch. 7-
   - Excercise and Strengths of Interface
+
+- Static method of Interface
+
+- Introduction of Inner Class
+
+#### 22.02.12 (Sat)
+- Ch. 7-
+  - Excercise and of Inner class 
