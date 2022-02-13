@@ -173,4 +173,4 @@ public class array {
 
 #### 22.02.12 (Sat)
 - Ch. 7-
-  - Excercise and of Inner class 
+  - Excercise and Strength of Inner class 
