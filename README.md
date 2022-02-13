@@ -174,3 +174,16 @@ public class array {
 #### 22.02.12 (Sat)
 - Ch. 7-
   - Excercise and Strength of Inner class 
+
+#### 22.02.13 (Sun)
+- Ch. 7-
+  - Kinds of Inner Class
+    - Instance inner class
+    - \[static] Class inner class
+    - Local inner class
+    - Annonymous inner class
+  -  
+> Q. How to creat an instance of inner class?
+> Q. "static 메서드에서 내부클래스가 사용된다" 뜻
+
+
