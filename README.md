@@ -186,4 +186,8 @@ public class array {
 > Q. How to creat an instance of inner class?
 > Q. "static 메서드에서 내부클래스가 사용된다" 뜻
 
+#### 22.02.16 (Wed)
+- Ch. 8-11~14
+  - "throws" (Declare exceptions to method)
+  - create file
 
