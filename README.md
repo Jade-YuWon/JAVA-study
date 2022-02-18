@@ -186,8 +186,43 @@ public class array {
 > Q. How to creat an instance of inner class?
 > Q. "static 메서드에서 내부클래스가 사용된다" 뜻
 
+#### 22.02.15 (Tue)
+- Ch. 7-
+- \[Ch.7 Complete]
+  - Inner class(내부 클래스)
+  - Annonymous class(익명 클래스)
+- Ch. 8
+  - Program error
+    1. compile-time error
+    2. runtime error
+      - Error
+      - Exception 
+        - Exception class and their children: fault by user, checked exception(it means if not check the exception, it would provoke a compile error)
+        - RuntimeException class and their children: fault by programmer, unchecked exception
+    3. logical error
+  - Processing Exception
+    - try-catch block
+    - Declare exception to method: return_type method() throws Exception { ...
+    - Hide (은폐, empty catch block)
+   
+
+
 #### 22.02.16 (Wed)
 - Ch. 8-11~14
   - "throws" (Declare exceptions to method)
   - create file
+  - File IO
+  - finally block
+
+#### 22.02.17 (Thu)
+- Ch. 8-
+- \[Ch.8 Complete]
+  - User-defined exception
+  - Exception re-throwing
+  - chained exception
+
+
+#### 22.02.18 (Fri)
+- Ch. 9-
+  - Object class
 
