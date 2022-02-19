@@ -24,8 +24,11 @@ class Value {
 	}
 
 	public boolean equals(Object obj) {
-		System.out.println("(주소)");
-		return (this == obj);
+		if (!(obj instanceof Value))
+			return false;
+		Value v = (Value) obj;
+		System.out.println("(값)");
+		return (this.value == v.value);
 	}
 
 }
