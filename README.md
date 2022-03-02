@@ -6,6 +6,7 @@
 - 남궁성, <자바의 정석 기초편>
 - 우종정, <쉽게 배우는 자바 프로그래밍 2판>
 ## Learning History
+### Winter vacation (Self learning)
 #### 22.01.15 (Sat)
 - Ch. 2-1 ~ 2-8
   - Variables, Constant, Literal (Types, Suffix)
@@ -226,3 +227,10 @@ public class array {
 - Ch. 9-
   - Object class
 
+### 2022-1 Semester (OOP Class)
+#### 22.03.02 (Wed)
+- 자바의 유래
+- Object Oriented Language
+- High-level Language
+- Compiler vs. Interpreter: 컴파일러가 자바 프로그램을 컴파일한 후 얻어지는 것은 "Java Byte code"
+- Binary code의 OS 종속성이란?: OS마다 실행되는 binary code가 다르다.
