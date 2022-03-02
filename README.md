@@ -229,8 +229,9 @@ public class array {
 
 ### 2022-1 Semester (OOP Class)
 #### 22.03.02 (Wed)
-- 자바의 유래
+- 자바의 유래: 제임스 고슬링이 Sun Microsystems에서 가전제품을 위한 프로그래밍 언어를 만들었다가 Web과 Netscape(현 Firefox의 전신)에서 활발히 사용되었다.
 - Object Oriented Language
 - High-level Language
-- Compiler vs. Interpreter: 컴파일러가 자바 프로그램을 컴파일한 후 얻어지는 것은 "Java Byte code"
+- Compiler vs. Interpreter: 자바 프로그램을 컴파일러로 컴파일한 후 얻어지는 것은 "Java Byte code".
+- WORA 정신\[JVM, 자바 가상 머신] -\> Byte code를 실행할 수 있는 이진코드(Binary code)로 바꾸어주는 Interpreter. =\> 자바는 Platform 독립적(Portability):OS에 구애받지 않는다.
 - Binary code의 OS 종속성이란?: OS마다 실행되는 binary code가 다르다.
