@@ -235,3 +235,5 @@ public class array {
 - Compiler vs. Interpreter: 자바 프로그램을 컴파일러로 컴파일한 후 얻어지는 것은 "Java Byte code".
 - WORA 정신\[JVM, 자바 가상 머신] -\> Byte code를 실행할 수 있는 이진코드(Binary code)로 바꾸어주는 Interpreter. =\> 자바는 Platform 독립적(Portability):OS에 구애받지 않는다.
 - Binary code의 OS 종속성이란?: OS마다 실행되는 binary code가 다르다.
+
+![image](https://user-images.githubusercontent.com/77564623/159188554-c49bc901-a8ec-4bd2-b065-f3609fc2bd9d.png)
